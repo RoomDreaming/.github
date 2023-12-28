@@ -1,7 +1,7 @@
 # 🏠RoomDreaming v2.0🏠 #
 ### RoomDreaming: Generative-AI Approach to Facilitating Iterative, Preliminary Interior Design Exploration ###
 
-🌈 https://www.roomdreaming.com
+## 🌈 https://www.roomdreaming.com ##
 <!--
 
 **Here are some ideas to get you started:**
